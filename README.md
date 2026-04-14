@@ -1,2 +1,2 @@
 # Jokenpo
-É um jogo clássico de Jokenpo, o "pedra, papel ou tesoura". Possui três modos, Jogador x Jogador; Jogador x Máquina; Máquina x Máquina; 
+It's a classic game of Rock, Paper, Scissors. It has an interactable interface and three modes: Player vs. Player; Player vs. Machine; Machine vs. Machine; For the interface "pygame" was used, for the machines, "random".
