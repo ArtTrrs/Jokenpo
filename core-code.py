@@ -1,3 +1,7 @@
+# biblioteca
+
+import random
+
 # status inicial das variavies de jogo
 
 jogo = False
